@@ -3,7 +3,7 @@ class Adocfmt < Formula
   homepage "https://github.com/dheid/adocfmt"
   url "https://github.com/dheid/adocfmt/releases/download/v0.1.0/adocfmt.jar"
   version "0.1.0"
-  sha256 "bebf026c55b85a6ed59c5b6f587d335af1cd3827472fa60486c79b5e2aeeba36"
+  sha256 "9309746fb69599ed8d1eda48b561038a979634656244053db13831779f83f80d"
   license "Apache-2.0"
 
   depends_on "openjdk@17"

@@ -1,9 +1,9 @@
 class Adocfmt < Formula
   desc "An opinionated AsciiDoc formatter"
   homepage "https://github.com/dheid/adocfmt"
-  url "https://github.com/dheid/adocfmt/releases/download/v0.1.2/adocfmt.jar"
-  version "0.1.2"
-  sha256 "2ffbfcd6d40b73e6b57074302694ba5ccad4f16f78fa0474b5cbea16fa888735"
+  url "https://github.com/dheid/adocfmt/releases/download/v0.2.0/adocfmt.jar"
+  version "0.2.0"
+  sha256 "65060e6dc72f92834629a1f59db1478e0fc59442e07ae1cfe516afc185bc0bb8"
   license "Apache-2.0"
 
   depends_on "openjdk@17"
